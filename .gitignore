@@ -1,2 +1,4 @@
 cleaned/*
 raw/*
+*.csv
+*.xlsx
